@@ -1,4 +1,4 @@
-# this code creates the base visualizations used "Asymmetric Partisan Voter Turnout Games"
+# this code creates the base visualizations used in "Asymmetric Partisan Voter Turnout Games"
 # it produces indifference curves for supporters of candidate A and candidate B based on the probabilities of different election outcomes
 
 # calculates the probability that candidate A wins the election
